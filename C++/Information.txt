@@ -1,0 +1,32 @@
+Information
+
+Terminal Commands:
+
+compile -> g++ _fileName_.cpp_
+run     -> ./a.out
+
+C++ Tips:
+
+Single Line Comments -> //
+Multi Line Comments -> /* */
+Basic Structure of File:
+  #include<iostream>
+  using namespace std;
+  int main() {}
+
+Coding:
+
+cout = console out
+cin = console in
+endl or "\n" = new line
+Data Types:
+  string
+  int
+  float
+  double
+  char
+  bool
+static_cast<dataType>();
+ceil and floor
+const
+string arr[2];
