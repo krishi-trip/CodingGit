@@ -1,5 +1,16 @@
 Commands:
 
 - https://www.youtube.com/watch?v=JWReY93Vl6g
-- brew install APP_NAME
 - :CocInstall coc-LANGUAGE
+
+- brew install NAME
+- sudo apt install NAME
+- pip install NAME
+
+- flutter
+- git
+
+Git Steps:
+1) git add FILE_NAME (or *)
+2) git commit -m "Message"
+3) git push
