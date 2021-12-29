@@ -14,3 +14,19 @@ Git Steps:
 1) git add FILE_NAME (or *)
 2) git commit -m "Message"
 3) git push
+
+Running Files:
+	C++:
+		1) Compile with g++ fileName.cpp
+		2) Run with ./a.out
+
+	Java: 
+		1) Compile with java fileName.java
+		2) Run with java fileName
+
+	Python:
+		1) python3 fileName.py
+	
+	HTML: 
+		1) open fileName.html
+		
