@@ -1,4 +1,4 @@
-package cs1302.practice;
+package cs1302.nums;
 
 public class Apple extends Fruit {
 
