@@ -4,9 +4,11 @@ public abstract class Food {
 
     private String name;
     private boolean isEaten;
+    private boolean isPoisonous;
 
-    public Food(String name) {
+    public Food(String name, boolean isPoisonous) {
         this.name = name;
+        this.isPoisonous = isPoisonous;
         this.isEaten = false;
     }
 

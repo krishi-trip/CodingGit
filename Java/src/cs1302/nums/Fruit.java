@@ -1,9 +1,9 @@
 package cs1302.nums;
 
-public class Fruit extends Food {
+public abstract class Fruit extends Food {
 
-    public Fruit(String name) {
-        super(name);
+    public Fruit(String name, boolean poisonous) {
+        super(name, poisonous);
     }
 
 }
