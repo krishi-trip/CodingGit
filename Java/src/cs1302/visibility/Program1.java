@@ -1,8 +1,7 @@
 package cs1302.visibility;
 
 public class Program1 {
-
-    private static int counter;
-    static int pkgp;
-
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
