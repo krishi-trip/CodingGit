@@ -12,7 +12,7 @@ ground_surface = pygame.image.load('graphics/ground.png').convert()
 
 score = 0
 score_surface = test_font.render(str(score), False, (64,64,64))
-nscore_rect = score_surface.get_rect(center = (400,50))
+score_rect = score_surface.get_rect(center = (400,50))
 
 snail_surface = pygame.image.load('graphics/snail/snail1.png').convert_alpha()
 snail_rectangle = snail_surface.get_rect(midbottom = (600, 300))
