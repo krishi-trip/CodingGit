@@ -11,3 +11,5 @@ This is a repository for me to learn, practice, and develop code. I will use thi
 ## Frameworks:
 - NodeJS
 - React
+- Maven
+
