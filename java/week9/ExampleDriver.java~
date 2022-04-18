@@ -1,0 +1,8 @@
+import java.util.function;
+
+public class ExampleDriver {
+    public static void main(String[] args) {
+	Example e = new Example();
+
+    }
+}
